@@ -7,3 +7,13 @@ C:\Users\ppp\Source\Repos\diearatorSolution\diearatorLog\obj\Debug\diearatorLog.
 C:\Users\ppp\Source\Repos\diearatorSolution\diearatorLog\obj\Debug\diearatorLog.pdb
 C:\Users\ppp\Source\Repos\diearatorSolution\diearatorLog\obj\Debug\diearatorLog.gui1.resources
 C:\Users\ppp\Source\Repos\diearatorSolution\diearatorLog\obj\Debug\diearatorLog.csproj.GenerateResource.Cache
+C:\Users\ppp\Source\Repos\diearatorSolution\DiearatorReLogger\diearatorLog\bin\Debug\diearatorLog.exe.config
+C:\Users\ppp\Source\Repos\diearatorSolution\DiearatorReLogger\diearatorLog\bin\Debug\diearatorLog.exe
+C:\Users\ppp\Source\Repos\diearatorSolution\DiearatorReLogger\diearatorLog\bin\Debug\diearatorLog.pdb
+C:\Users\ppp\Source\Repos\diearatorSolution\DiearatorReLogger\diearatorLog\obj\Debug\diearatorLog.csprojResolveAssemblyReference.cache
+C:\Users\ppp\Source\Repos\diearatorSolution\DiearatorReLogger\diearatorLog\obj\Debug\diearatorLog.gui1.resources
+C:\Users\ppp\Source\Repos\diearatorSolution\DiearatorReLogger\diearatorLog\obj\Debug\diearatorLog.Properties.Resources.resources
+C:\Users\ppp\Source\Repos\diearatorSolution\DiearatorReLogger\diearatorLog\obj\Debug\diearatorLog.csproj.GenerateResource.Cache
+C:\Users\ppp\Source\Repos\diearatorSolution\DiearatorReLogger\diearatorLog\obj\Debug\diearatorLog.csproj.CoreCompileInputs.cache
+C:\Users\ppp\Source\Repos\diearatorSolution\DiearatorReLogger\diearatorLog\obj\Debug\diearatorLog.exe
+C:\Users\ppp\Source\Repos\diearatorSolution\DiearatorReLogger\diearatorLog\obj\Debug\diearatorLog.pdb
